@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+.f_section {
+    width: 600px;
+    min-height: 430px;
+}
+
+.f_header {
+    background-color: yellow;
+    padding: 15px;
+    min-height: 60px;
+}
+
+.f_main {
+    width: inherit;
+    min-height: 330px;
+    margin-top: 9px;
+}
+
+.f_nav {
+    background-color: yellow;
+    padding: 15px;
+    width: 120px;
+    float: left;
+    min-height: inherit;
+}
+
+.f_body {
+    width: 470px;
+    margin-left: 8px;
+    float: left;
+}
+
+.f_article {
+    background-color: yellow;
+    padding: 15px;
+    width: 370px;
+    min-height: 269px;
+    margin-right: 8px;
+    float: left;
+}
+
+.f_ads {
+    background-color: yellow;
+    padding: 15px;
+    width: 90px;
+    min-height: 270px;
+    float: left;
+}
+
+.f_footer {
+    background-color: yellow;
+    padding: 15px;
+    width: 470px;
+    margin-top: 8px;
+    min-height: 52px;
+    float: left;
+}
