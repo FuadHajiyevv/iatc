@@ -1,4 +1,3 @@
-
 # IATC
 
 <strong><a href="https://fuadhajiyevv.github.io/IATC/Task%201%20(Table)/" target="_blank">Task 1 (Table)</a></strong><br/>
@@ -18,4 +17,3 @@
 <strong><a href="https://fuadhajiyevv.github.io/IATC/Task%208%20(XeOne)/" target="_blank">Task 8 (XeOne)</a></strong><br/>
 
 <strong><a href="https://fuadhajiyevv.github.io/IATC/Task%209%20(Media%20Query)/" target="_blank">Task 9 (Media Query)</a></strong><br/>
-
